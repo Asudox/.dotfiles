@@ -1,0 +1,28 @@
+[font]
+size = 12.0
+
+[font.bold]
+family = "monospace"
+style = "Bold"
+
+[font.bold_italic]
+family = "monospace"
+style = "Bold Italic"
+
+[font.italic]
+family = "monospace"
+style = "Italic"
+
+[font.normal]
+family = "monospace"
+style = "Regular"
+
+[window]
+opacity = 0.6
+blur = true
+dimensions = { columns = 110, lines = 23 }
+decorations = "None"
+
+[cursor]
+style = { "blinking" = "Always" }
+blink_interval = 500
