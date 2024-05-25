@@ -18,7 +18,7 @@ family = "monospace"
 style = "Regular"
 
 [window]
-opacity = 0.6
+opacity = 0.3
 blur = true
 dimensions = { columns = 110, lines = 23 }
 decorations = "None"
